@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ray Briones</h1>
+<h1 align="center">Welcome to my GitHub Profile!</h1>
 <h3 align="center">Software Developer</h3>
 <img align= "right" alt= "Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **raybriones729@gmail.com**
 
-- 📄 Know about my experiences \(https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
+- 📄 My Resume: \(https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
 
 - ⚡ Fun fact **Aside from being skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.**
 
