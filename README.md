@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **raybriones729@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing](https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
+- 📄 Know about my experiences \(https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
 
 - ⚡ Fun fact **Aside from being skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and an OG anime fan. I'm also working towards the goal of building myself a custom PC.**
 
