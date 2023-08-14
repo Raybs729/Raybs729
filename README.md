@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ray Briones</h1>
 <h3 align="center">Software Developer</h3>
-<img align= "center" alt= "Coding" width="400" src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif">
+<img align= "right" alt= "Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raybs729&label=Profile%20views&color=0e75b6&style=flat" alt="raybs729" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.**
 
-- 🤝 I’m looking for help with **Three.js, AWS Cloud Practitioner, Kubernetes**
+- 🤝 I’m looking for help with **Three.js, AWS Cloud Practitioner exam, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raybs729](https://github.com/Raybs729)
 
