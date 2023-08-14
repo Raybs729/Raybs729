@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/view/mario-pixel-art-gaming-room-gif-23722022)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ray Briones</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<img align= "right" alt= "Coding" width="400" src="https://tenor.com/bAVRC.gif">
+<img align= "right" alt= "Coding" width="100" src="https://tenor.com/bAVRC.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raybs729&label=Profile%20views&color=0e75b6&style=flat" alt="raybs729" /> </p>
 
