@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.**
 
-- 🤝 I’m looking for help with **Three.js, AWS Cloud Practitioner exam, Kubernetes**
+- 🤝 I’m looking for help with **Three.js, AWS Cloud Practitioner exam, and Kubernetes**
 
 - 👨‍💻 Connect with me on LinkedIn https://linkedin.com/in/ray-briones
 
