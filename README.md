@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Three.js, AWS Cloud Practitioner exam, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Raybs729](https://github.com/Raybs729)
+- 👨‍💻 Connect with me on LinkedIn https://linkedin.com/in/ray-briones
 
 - 💬 Ask me about **Java, React, Next.js, C#, API integration.**
 
