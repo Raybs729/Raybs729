@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Neflix-Clone "Petflix"](https://github.com/Raybs729/Netflix-Clone)
+- 🔭 I’m currently working on [Neflix-Clone "Petflix"](https://github.com/Raybs729/Netflix-Clone) and creating my portfolio website.
 
 - 🌱 I’m currently learning **Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.**
 
