@@ -1,11 +1,11 @@
-[![MasterHead](https://tenor.com/view/mario-pixel-art-gaming-room-gif-23722022)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ray Briones</h1>
-<h3 align="center">A passionate Software Developer</h3>
-<img align= "right" alt= "Coding" width="100" src="https://tenor.com/bAVRC.gif">
+<h3 align="center">Software Developer</h3>
+<img align= "center" alt= "Coding" width="400" src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raybs729&label=Profile%20views&color=0e75b6&style=flat" alt="raybs729" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raybs729" alt="raybs729" /></a> </p>
+
 
 - 🔭 I’m currently working on [Neflix-Clone "Petflix"](https://github.com/Raybs729/Netflix-Clone)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences \(https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
 
-- ⚡ Fun fact **Aside from being skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and an OG anime fan. I'm also working towards the goal of building myself a custom PC.**
+- ⚡ Fun fact **Aside from being skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
