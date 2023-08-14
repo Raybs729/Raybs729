@@ -21,7 +21,7 @@
 
 - 📄 My Resume: \(https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
 
-- ⚡ Fun fact **Aside from being skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.**
+- ⚡ Fun fact about me: **Aside from being skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
