@@ -34,5 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raybs729&show_icons=true&locale=en&layout=compact" alt="raybs729" height= "195"/></p>
 
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,04d9ff,fb48c4&title_color=fff&text_color=fff)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" /></p>
