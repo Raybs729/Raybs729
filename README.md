@@ -34,4 +34,4 @@
 
 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" color= 30,000080,a70080/></p>
