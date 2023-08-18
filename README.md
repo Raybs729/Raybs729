@@ -35,5 +35,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=raybs729" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raybs729&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" color= 30,000080,a70080/>
