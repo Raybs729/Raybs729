@@ -34,9 +34,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raybs729&layout=pie"/>
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raybs729&layout=pie"/>
 </a>
