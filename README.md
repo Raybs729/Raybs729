@@ -1,23 +1,24 @@
 [![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://rishavchanda.io)
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h3 align="center">Software Developer</h3>
-<img align= "right" alt= "Coding" width="400" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
+<img align= "right" alt= "Coding" width="450" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raybs729&label=Profile%20views&color=0e75b6&style=flat" alt="raybs729" /> </p>
 
 
 
-- 🔭 I’m currently working on [Neflix-Clone "Petflix"](https://github.com/Raybs729/Netflix-Clone) and creating my portfolio website.
+- <h2>🔭 I’m currently working on</h2>
+  Neflix-Clone "Petflix"(https://github.com/Raybs729/Netflix-Clone) and creating my portfolio website.
 
-- 🌱 I’m currently learning **Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.**
+- <h2>🌱 I’m currently learning</h2> Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
 
-- 🤝 I’m looking for help with **Three.js, AWS Cloud Practitioner exam, and Kubernetes.**
+- <h2>🤝 I’m looking for help with</h2> Three.js, AWS Cloud Practitioner exam, and Kubernetes.
 
-- 💬 Ask me about **Java, React, Next.js, C#, API integration.**
+- <h2>💬 Ask me about</h2> Java, React, Next.js, C#, API integration.
 
-- 📄 My Resume: \(https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
+- <h2>📄 My Resume: </h2>https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing
 
-- ⚡ Fun fact about me: **Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.**
+- <h2>⚡ Fun fact about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.
 
 
 <p align="center">
@@ -27,12 +28,12 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" />
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&disable_animations=false" alt="raybs729" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raybs729&layout=pie"/>
-</a>
+<p align = "left"><a href="https://www.adamalston.com/"><a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=raybs729&show_icons=true&theme=radical" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybs729&layout=compact&theme=radical"/>
+</a></p>
+
 
 ## Dont forget to React Out! 📱
 <a href="mailto: raybriones729@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
