@@ -18,7 +18,7 @@
 
 - <h2>📄 My Resume: </h2>https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing
 
-- <h2>⚡ Fun fact about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter and teaching myself Olympic Weightlifting. I'm also an avid nerd from watching Shōwa era Godzilla movies and playing Super Nintendo with my mom to watching old-school anime and Star Wars marathons with my step-dad. Finally, on a more computer technical note, I'm also working towards the goal of building my dream custom PC.
+- <h2>⚡ Fun fact about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro. While I am not near a computer, I'm a competitive powerlifter and teaching myself Olympic Weightlifting. I'm also an avid nerd with deep roots — from watching Shōwa era Godzilla movies and playing Super Nintendo with my mom to enjoying old-school anime and Star Wars marathons with my step-dad. Finally, on a more computer technical note, I'm working towards the goal of building my dream custom PC.
 
 
 <p align="center">
