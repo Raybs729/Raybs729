@@ -29,11 +29,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&disable_animations=false" alt="raybs729" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&disable_animations=true" alt="raybs729" />
   </a>
 </p>
 
-<p align = "center"><a href="https://www.adamalston.com/"><a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=raybs729&show_icons=true&theme=radical" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybs729&layout=compact&theme=radical"/>
+<p align = "center"><a href="https://www.adamalston.com/"><a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=raybs729&show_icons=true&theme=neon" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybs729&layout=compact&theme=neon"/>
 </a></p>
 
 
