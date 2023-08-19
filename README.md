@@ -20,12 +20,11 @@
 - ⚡ Fun fact about me: **Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro, I'm a competitive powerlifter, teaching myself Olympic Weightlifting, and a long-time anime fan. I'm also working towards the goal of building myself a custom PC.**
 
 
-<h2 align="left">Languages and Tools:</h2>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,nextjs,python,c#,tailwind,firebase&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,react,nextjs,py,cs,tailwind,firebase,MongoDB,idea,git,github,HTML,jquery,postgres,postman,StackOverflow,vscode,ae,ps" />
   </a>
-<br />
-<br />
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&" alt="raybs729" />
