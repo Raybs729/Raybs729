@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&disable_animations=true" alt="raybs729" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729" alt="raybs729" />
   </a>
 </p>
 
