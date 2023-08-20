@@ -18,7 +18,7 @@
 
 - <h2>📄 My Resume: </h2>https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing
 
-- <h2>⚡ Fun fact about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro. While I am not near a computer, I'm a competitive powerlifter and teaching myself Olympic Weightlifting. I'm also an avid nerd with deep roots — from watching Shōwa era Godzilla movies and playing Super Nintendo with my mom as a child, binge-watching 90s-era anime, to enjoying Star Wars and Lord of The Rings marathons with my family. From Dungeons and Dragons to Warhammer 40k, I've dabbled in it all! Finally, on a more computer hardware note, I keep myself up-to-date on the latest PC hardware news with the goal of building my dream custom PC.
+- <h2>⚡ Fun fact about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro. While I am not near a computer, I'm a competitive powerlifter and teaching myself Olympic Weightlifting. I'm also an avid nerd with deep roots — from watching Shōwa era Godzilla movies and playing Super Nintendo with my mom as a child, binge-watching 90s-era anime, to enjoying Star Wars and Lord of The Rings marathons with my family. From Dungeons and Dragons to Warhammer 40k, I've dabbled in it all! Finally, on a more computer hardware note, I keep myself up-to-date on the latest PC hardware news with the goal of building my dream custom PC. Feel free to connect if you also have the same passions or goals!
 
 
 <p align="center">
