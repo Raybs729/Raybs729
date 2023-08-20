@@ -29,11 +29,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729" alt="raybs729" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raybs729&disable_animations=true" alt="raybs729" />
   </a>
 </p>
 
-<p align = "center"><a href="https://www.adamalston.com/"><a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=raybs729&show_icons=true&bg_color=60,000080,880052&hide=contribs&text_color=00f1ff&title_color=00f1ff&icon_color=ffffff&rank_icon=github&&" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybs729&layout=compact&bg_color=60,000080,880052&text_color=00f1ff&title_color=00f1ff&"/>
+<p align = "center"><a href="https://www.adamalston.com/"><a href="https://www.adamalston.com/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=raybs729&show_icons=true&bg_color=60,000080,880052&hide=contribs&text_color=00f1ff&title_color=00f1ff&icon_color=ffffff&rank_icon=github&disable_animations=true&&" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raybs729&layout=compact&bg_color=60,000080,880052&text_color=00f1ff&title_color=00f1ff&disable_animations=true"/>
 </a></p>
 
 
