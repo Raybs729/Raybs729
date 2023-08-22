@@ -5,10 +5,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raybs729&label=Profile%20views&color=0e75b6&style=flat" alt="raybs729" /> </p>
 
-
+[Neflix-Clone "Petflix"]((https://github.com/Raybs729/Netflix-Clone))
 
 - <h2>🔭 I’m currently working on</h2>
-  [Neflix-Clone "Petflix"]([url](https://github.com/Raybs729/Netflix-Clone)) and creating my portfolio website. 
+  [Neflix-Clone "Petflix"]((https://github.com/Raybs729/Netflix-Clone)) and creating my portfolio website. 
 
 - <h2>🌱 I’m currently learning</h2> Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
 
