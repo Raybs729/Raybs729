@@ -7,11 +7,11 @@
 
 
 
-- <h2>🔭 I’m currently working on</h2>
+- <h2>💻 I’m currently working on</h2>
   
   [Neflix-Clone "Petflix"](https://github.com/Raybs729/Netflix-Clone) and creating my portfolio website. 
 
-- <h2>🌱 I’m currently learning</h2> Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
+- <h2>📚 I’m currently learning</h2> Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
 
 - <h2>🤝 I’m looking for help with</h2> Three.js, AWS Cloud Practitioner exam, and Kubernetes.
 
@@ -21,7 +21,7 @@
   
   [My current resume](https://docs.google.com/document/d/1dlHtZ5eFRFy4PAxnv3T_N85OzKdGoVurkIEOLAykVgg/edit?usp=sharing)
 
-- <h2>⚡ Fun facts about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro. While I am not near a computer, I'm a competitive powerlifter and teaching myself Olympic Weightlifting. I'm also an avid nerd with deep roots — from watching Shōwa era Godzilla movies and playing Super Nintendo with my mom as a child, binging anime since the 90s, and enjoying Star Wars and Lord of The Rings marathons with my family — even board games such as Dungeons & Dragons and Warhammer 40k, I would say I've dabbled in all things considered "nerd-culture" simply because I think they're fun regardless of what my peers would think!  Finally, on a more computer hardware note, I keep myself up-to-date on the latest PC hardware news with the goal of building my dream custom PC. Feel free to connect if you also have the same passions or goals!
+- <h2>⚡️ Fun facts about me: </h2>Aside from programming, I am skilled in video editing using Adobe After Effects and Premiere Pro. While I am not near a computer, I'm a competitive powerlifter and teaching myself Olympic Weightlifting. I'm also an avid nerd with deep roots — from watching Shōwa era Godzilla movies and playing Super Nintendo with my mom as a child, binging anime since the 90s, and enjoying Star Wars and Lord of The Rings marathons with my family — even board games such as Dungeons & Dragons and Warhammer 40k, I would say I've dabbled in all things considered "nerd-culture" simply because I think they're fun regardless of what my peers would think!  Finally, on a more computer hardware note, I keep myself up-to-date on the latest PC hardware news with the goal of building my dream custom PC. Feel free to connect if you also have the same passions or goals!
 
 
 <p align="center">
