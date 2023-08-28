@@ -9,7 +9,7 @@
 
 - <h2>💻 I’m currently working on</h2>
   
-  [Neflix-Clone "Petflix"](https://github.com/Raybs729/Netflix-Clone) and creating my portfolio website. 
+  Creating my portfolio website. 
 
 - <h2>📚 I’m currently learning</h2> Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
 
