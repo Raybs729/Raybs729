@@ -11,7 +11,7 @@
   
   Creating my portfolio website. 
 
-- <h2>📚 I’m currently learning</h2> Next.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
+- <h2>📚 I’m currently learning</h2> Three.js, React, Firebase, Tailwind CSS, Python, and obtaining certificates through CodeAcademy.
 
 - <h2>🤝 I’m looking for help with</h2> Three.js, AWS Cloud Practitioner exam, and Kubernetes.
 
