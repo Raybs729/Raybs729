@@ -12,10 +12,10 @@
   FreeCodeCamp & Microsoft Foundational C# Certification 
 
 - <h2>📚 I’m currently learning</h2> 
-C#, Data Analytics, Cybersecurity, Python, Three.js, React, Tailwind CSS, and obtaining certificates through CodeAcademy.
+  C#, Data Analytics, Cybersecurity, Python, Three.js, React, Tailwind CSS, and obtaining certificates through CodeAcademy.
 
 - <h2>🤝 I’m looking for help with</h2>
-Cybersecurity.
+  Cybersecurity.
 - <h2>💬 Ask me about</h2> Java, React, Next.js, C#, API integration.
 
 - <h2>⚡️ Fun facts about me: </h2>When I'm not near a computer, I'm passionate about reading and video editing. I'm currently taking a break from competitive powerlifting while I take the time to teach myself Olympic Weightlifting. I'm a proud nerd with deep roots. From childhood memories of watching Shōwa-era Godzilla movies and playing Super Nintendo with my mom, to binge-watching anime since the '90s and enjoying epic marathons of Star Wars and Lord of The Rings with my family, my interests span a wide spectrum of "nerd-culture." I've even delved into tabletop games like Dungeons & Dragons and Warhammer 40k because of how deeply intricate the world building can be! Additionally, I stay up-to-date with the latest PC hardware news, all in pursuit of my dream custom PC build. If any of these passions or goals resonate with you, feel free to connect!
